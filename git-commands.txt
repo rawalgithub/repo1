@@ -1,0 +1,22 @@
+
+git config - this command sets author name and email for commits
+ 
+git config -global user.name "username"
+git config -global user.email "useremailid"
+
+++++++++++++++++++++++
+
+git init - this command is used to start new   repository
+
+++++++++++++++++++++++
+
+git clone [url] - command to copy or clone any repository availble
+
+++++++++++++++++++++++
+
+git add filename or .   - command to add file to staging area
+
+
++++++++++++
+
+
